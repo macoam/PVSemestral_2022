@@ -1,24 +1,24 @@
 .partyContainer {
     align-items: stretch;
-    background-color: rgba(117, 186, 250, 0.14);
+    background-color: rgba(220, 149, 21, 0.5);
     position: relative;
     bottom: 0;
     width: 90%;
     flex-grow: 1;
     flex-direction: row;
     justify-content: center;
-    border-top-left-radius: 13px;
-    border-bottom-left-radius: 13px;
-    border-top-right-radius: 13px;
-    border-bottom-right-radius: 13px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
     border-left-width: 2px;
     border-right-width: 2px;
     border-top-width: 2px;
     border-bottom-width: 2px;
-    border-left-color: rgb(199, 0, 57);
-    border-right-color: rgb(199, 0, 57);
-    border-top-color: rgb(199, 0, 57);
-    border-bottom-color: rgb(199, 0, 57);
+    border-left-color: rgb(119, 0, 57);
+    border-right-color: rgb(119, 0, 57);
+    border-top-color: rgb(119, 0, 57);
+    border-bottom-color: rgb(119, 0, 57);
 }
 
 .title {
@@ -59,7 +59,7 @@
 }
 
 .unity-progress-bar .unity-progress-bar__progress {
-    background-color: rgb(15, 200, 0);
+    background-color: rgb(200, 214, 66);
 }
 
 .progressBarMana .unity-progress-bar__progress {
